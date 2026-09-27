@@ -1,0 +1,1 @@
+{"service": "watcher", "interval_minutes": 30, "topics": ["thejobcafe", "bounty"], "enabled": true}
